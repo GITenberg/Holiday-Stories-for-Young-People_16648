@@ -1,0 +1,44 @@
+_repo: Holiday-Stories-for-Young-People_16648
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Sangster, Margaret Elizabeth Munson
+    aliases:
+    - Deth, Gerrit van, Mrs.
+    - Van Deth, Gerrit, Mrs.
+    birthdate: 1838
+    deathdate: 1912
+    gutenberg_agent_id: '6910'
+    url: http://www.gutenberg.org/2009/agents/6910
+description: ''
+gutenberg_issued: '2005-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holidays -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: The Clover Leaf Club of Bloomingdale. By Sangster -- The Lighthouse
+  Lamp. By  Sangster. -- The Family Mail-bag. By Porter -- A Day's Fishing. By Porter
+  -- Why Charlie Didn't Go. By Porter -- Uncle Giles' Paint Brush. By Porter -- The
+  Pied Piper of Hamelin. By Browning -- A Girl Graduate. By Barnard -- A Christmas
+  Frolic. By Sangster -- Archie's Vacation. By Porter -- A Birthday Story. By Sangster
+  -- A Coquette. By Pierce -- Horatius. By Macaulay -- A Bit of Brightness. By Porter
+  -- How Sammy Earned the Prize. By Sangster -- The Glorious Fourth. -- The Middle
+  Daughter. By Sangster -- The Golden Bird. By  Grimm -- Harry Pemberton's Text. By
+  Armstrong -- Our Cats. -- Outovplace. -- The Boy Who Dared to Be a Daniel. By Smith
+  -- Little Redcap. By Grimm -- New Zealand Children. -- The Breeze from the Peak.
+  -- The Bremen Town Musicians. By Grimm -- A Very Queer Steed, and Some Strange Adventures.
+  by Armstrong -- Freedom's Silent Host. By Sangster -- Presence of Mind. By Sangster
+  -- The Boy Who Went from the Sheepfold to the Throne. By Sangster.
+title: Holiday Stories for Young People
+url: http://www.gutenberg.org/ebooks/16648
